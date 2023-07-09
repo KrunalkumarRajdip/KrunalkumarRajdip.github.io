@@ -1,0 +1,42 @@
+body {
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+#content {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+pre {
+  margin: 0;
+}
+
+code {
+  white-space: pre-wrap;
+}
+
+#personal-info,
+#summary,
+#work-experience,
+#education,
+#languages,
+#certifications,
+#publications {
+  margin-bottom: 30px;
+}
